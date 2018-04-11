@@ -33,3 +33,19 @@ EM.run do
   end
 
 end
+
+__END__
+event.dataの中身
+{"type"=>"message",
+  "deleted_ts"=>"1523259194.000154",
+  "subtype"=>"message_deleted",
+  "hidden"=>true,
+  "channel"=>"C86840P99",
+  "previous_message"=>{
+    "type"=>"message",
+    "user"=>"U9BG3HL7Q",
+    "text"=>"ｔｓ",
+    "ts"=>"1523259194.000154"
+    },
+  "event_ts"=>"1523259200.000141",
+  "ts"=>"1523259200.000141"}
